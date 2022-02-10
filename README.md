@@ -8,7 +8,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Table of Contents
 
-* [Deployed] (#deployed)
+* [Deployed](#deployed)
 * [Installation](#installation)
 * [Screenshot](#screenshot)
 * [Questions](#questions)
